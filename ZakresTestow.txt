@@ -1,1 +1,18 @@
-   ...
+   Testowanie REST API dla aplikacji Trello.
+
+https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post 
+
+Zakres testów: Tablice użytkownika 
+
+
+Zakres testowania tablic użytkownika został wybrany ze względu na: 
+
+a. Krytyczność funkcjonalności: Tablice są centralnym elementem Trello, niezbędnym do organizacji pracy. 
+b. Częstotliwość użycia: Operacje na tablicach są jednymi z najczęściej wykonywanych działań. 
+c. Zależności między funkcjami: Tablice są podstawą dla innych funkcji, takich jak listy i karty. 
+d. Bezpieczeństwo i autoryzacja: Upewnienie się, że tylko autoryzowani użytkownicy mogą modyfikować tablice, co zapobiega naruszeniom bezpieczeństwa. 
+e. Spójność danych: Zapewnienie prawidłowego działania operacji na tablicach gwarantuje integralność danych. 
+f. Scenariusze brzegowe: Testowanie różnych scenariuszy, w tym negatywnych, poprawia stabilność aplikacji. 
+g. Zadowolenie użytkowników: Sprawne działanie operacji na tablicach zwiększa satysfakcję użytkowników. 
+
+
