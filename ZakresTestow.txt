@@ -16,3 +16,8 @@ f. Scenariusze brzegowe: Testowanie różnych scenariuszy, w tym negatywnych, po
 g. Zadowolenie użytkowników: Sprawne działanie operacji na tablicach zwiększa satysfakcję użytkowników. 
 
 
+[GET] Lista tablic użytkownika 
+
+Lista tablic użytkownika: Sprawdzenie, czy można pobrać listę wszystkich tablic użytkownika. 
+
+
