@@ -1,4 +1,4 @@
-   Testowanie REST API dla aplikacji Trello.
+Testowanie REST API dla aplikacji Trello.
 
 https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post 
 
