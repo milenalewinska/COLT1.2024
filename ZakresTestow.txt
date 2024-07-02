@@ -24,3 +24,8 @@ Lista tablic użytkownika: Sprawdzenie, czy można pobrać listę wszystkich tab
 2. Tworzenie nowej tablicy 
 
 Tworzenie tablicy: Sprawdzenie, czy można utworzyć nową tablicę. 
+
+
+3.Aktualizacja tablicy 
+
+Aktualizacja tablicy: Sprawdzenie, czy można zaktualizować szczegóły tablicy (np. nazwę). 
