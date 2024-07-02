@@ -1,4 +1,4 @@
-   Testowanie REST API dla aplikacji Trello.
+Testowanie REST API dla aplikacji Trello.
 
 https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post 
 
@@ -16,8 +16,21 @@ f. Scenariusze brzegowe: Testowanie różnych scenariuszy, w tym negatywnych, po
 g. Zadowolenie użytkowników: Sprawne działanie operacji na tablicach zwiększa satysfakcję użytkowników. 
 
 
-[GET] Lista tablic użytkownika 
+1. Lista tablic użytkownika 
 
 Lista tablic użytkownika: Sprawdzenie, czy można pobrać listę wszystkich tablic użytkownika. 
 
 
+2. Tworzenie nowej tablicy 
+
+Tworzenie tablicy: Sprawdzenie, czy można utworzyć nową tablicę. 
+
+
+3.Aktualizacja tablicy 
+
+Aktualizacja tablicy: Sprawdzenie, czy można zaktualizować szczegóły tablicy (np. nazwę). 
+
+
+4. Usuwanie tablicy 
+
+Usuwanie tablicy: Sprawdzenie, czy można usunąć istniejącą tablicę. 
