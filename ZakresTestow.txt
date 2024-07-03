@@ -2,6 +2,7 @@ Testowanie REST API dla aplikacji Trello.
 
 https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post 
 
+
 Zakres testów: Tablice użytkownika 
 
 
@@ -26,6 +27,8 @@ Lista tablic użytkownika: Sprawdzenie, czy można pobrać listę wszystkich tab
 Tworzenie tablicy: Sprawdzenie, czy można utworzyć nową tablicę. 
 
 
-3.Aktualizacja tablicy 
+3. Aktualizacja tablicy 
 
 Aktualizacja tablicy: Sprawdzenie, czy można zaktualizować szczegóły tablicy (np. nazwę). 
+
+Wykonała: Milena Lewińska
