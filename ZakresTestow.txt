@@ -31,4 +31,10 @@ Tworzenie tablicy: Sprawdzenie, czy można utworzyć nową tablicę.
 
 Aktualizacja tablicy: Sprawdzenie, czy można zaktualizować szczegóły tablicy (np. nazwę). 
 
+
+4. Usuwanie tablicy 
+
+Usuwanie tablicy: Sprawdzenie, czy można usunąć istniejącą tablicę. 
+
+
 Wykonała: Milena Lewińska
